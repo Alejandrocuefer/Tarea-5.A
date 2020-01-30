@@ -10,6 +10,7 @@ package tarea5.Alejandro;
  * @author alex
  */
 public class Clase {
+    
     private String nombre;
     private int numero;
 
